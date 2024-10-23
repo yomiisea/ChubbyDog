@@ -1,4 +1,4 @@
-#Hotel Embrujado 🏨
+# Hotel Embrujado 🏨
 
 The Cursed Hotel es un juego de aventura y rompecabezas, diseñado como una experiencia tipo escape room. En este juego, los jugadores acompañan a un perro valiente en su misión de rescatar a los huéspedes atrapados en un hotel maldito, donde deberán recolectar llaves, resolver acertijos y enfrentarse a enemigos para desentrañar los misterios del lugar.
 
