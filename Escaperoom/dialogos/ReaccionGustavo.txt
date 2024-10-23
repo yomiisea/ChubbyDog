@@ -1,0 +1,28 @@
+Si el jugador da la respuesta correcta, el Chef Gustavo se detiene abruptamente, 
+sus ojos se llenan de confusión y duda.
+
+
+Chef Gustavo: ¿Qué? No... no puede ser cierto. ¿He estado tan perdido? Mi mente... 
+mi mente está nublada por la obsesión. Gracias por abrirme los ojos y salvarme de 
+un error terrible. Lamento haber dejado que la locura me consumiera. Debo reflexionar y 
+buscar la verdad.
+Toma encontré esta llave oculta en mi cocina.
+
+<presiona enter>
+**
+El Chef Gustavo deja caer sus cuchillos y se aleja del Perrito Panzón, mostrando 
+una actitud más calmada.
+
+Chef Gustavo: Lamento haber dejado que la locura me consumiera. Debo reflexionar y 
+buscar la verdad. Aprecio tu ayuda, incluso cuando estaba cegado por la ira.
+
+<presiona enter>
+**
+
+Si el jugador da una respuesta incorrecta o no responde, el Chef Gustavo se enfurece aún más y se lanza hacia el Perrito Panzón en un ataque de ira.
+
+Chef Gustavo: ¡Incorrecto! ¡YO NO USARIA ESO JAMAS! Claramente eres el ingrediente faltante
+Prepárate para enfrentar las consecuencias de tu ignorancia.
+
+<presiona enter>
+**

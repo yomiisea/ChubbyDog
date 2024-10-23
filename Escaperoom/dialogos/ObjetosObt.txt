@@ -1,0 +1,8 @@
+Morgana: ¡Bien hecho, Perrito Panzón! Veo que has encontrado los tesoros.
+Ahora los usaré para crear la poción y enfrentar la pesadilla. Prepárate para la batalla.
+Veras...en tu batalla final tendras que luchar con un dado de 12 caras
+Sin embargo, esta pocion de la suerte te asegura que saques 6 como minimo
+Confiamos en ti, pequeño heroe!
+
+<presiona enter>
+**
